@@ -1,7 +1,9 @@
 <h1>Plus jamais gros  </h1>
 
 
-Application de motivation, si elle détecte que vous n'êtes pas à la salle de sport pendant les heures que vous avez indiquées à la création du compte
+
+
+Application IOS :) de motivation, si elle détecte que vous n'êtes pas à la salle de sport pendant les heures que vous avez indiquées à la création du compte
 Vous serez débité d'une somme que vous avez définie sur un compte epargne / ou association.
 
 
