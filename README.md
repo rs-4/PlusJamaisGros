@@ -1,8 +1,8 @@
 <h1>Plus jamais gros  </h1>
 
-Application motivation , si elle detecte que vous n'etes pas a la salle de sport pendant les heures que vous avez indiquées à la création du compte 
-vous serez débiter d'une somme que vous avez définie sur un compte epargne / ou associaiton.
 
+Application de motivation, si elle détecte que vous n'êtes pas à la salle de sport pendant les heures que vous avez indiquées à la création du compte
+Vous serez débité d'une somme que vous avez définie sur un compte epargne / ou association.
 
 
 Graphique => Figma => https://www.figma.com/file/UEUER7ziOtnyH8gQXi6u2J/Untitled?node-id=0%3A1&t=xQWkv4vOAqiLJufd-1
