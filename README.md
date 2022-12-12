@@ -1,4 +1,4 @@
-<h1>Never again fat  </h1>
+<h1>Never fat again </h1>
 
 
 
@@ -14,7 +14,7 @@ Graphique => Figma => https://www.figma.com/file/UEUER7ziOtnyH8gQXi6u2J/Untitled
 
 <h2> 19/12 </h3>
 -> Formulaire Inscription / Connexion </br>
--> BDD
+-> BDD </br>
 -> Utiliser Api google map , stripe ou autre pour les payements  </br>
 
 <h2> 09/01 </h3>
