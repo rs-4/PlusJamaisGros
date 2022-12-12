@@ -10,12 +10,13 @@ Graphique => Figma => https://www.figma.com/file/UEUER7ziOtnyH8gQXi6u2J/Untitled
 
 <h3>Todo : </h3> 
 
--> Formulaire Inscription / Connexion
--> Utiliser Api map , stripe ou autre pour les payements
-->Demander a l'utilisateur combien de séance par semaine , combien de temps et ou se trouve la salle lors de la création du compte 
-->Onglet principale avec la map et la prochaine séance 
-->Onglet parametres , changer de moyen de payement et ou envoyer de l'argent 
--> Payer a la fin de semaine / Payer a chaque fin de séance ( plus de frais).
+-> Formulaire Inscription / Connexion </br>
+-> Utiliser Api map , stripe ou autre pour les payements  </br>
+->Demander a l'utilisateur combien de séance par semaine , combien de temps et ou se trouve la salle lors de la création du compte  </br>
+->Onglet principale avec la map et la prochaine séance  </br>
+->Onglet parametres , changer de moyen de payement et ou envoyer de l'argent  </br>
+-> Payer a la fin de semaine / Payer a chaque fin de séance ( plus de frais). </br>
+-> BDD
 
 
 
