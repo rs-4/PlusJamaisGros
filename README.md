@@ -24,7 +24,9 @@ Graphique => Figma => https://www.figma.com/file/UEUER7ziOtnyH8gQXi6u2J/Untitled
 ->Onglet parametres , changer de moyen de payement et ou envoyer de l'argent  </br>
 -> Payer a la fin de semaine / Payer a chaque fin de séance ( plus de frais). </br>
 
+<h3>Bonus</h3>
 
+-> Fr , anglais 
 
 
 
