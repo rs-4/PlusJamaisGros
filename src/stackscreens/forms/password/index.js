@@ -29,7 +29,7 @@ const Valider = async () => {
  //find by email , send email whit password 
  const req = axios({
   method: 'post',
-  url: 'http://localhost:3001/api/v1/user/password',
+  url: 'https://nfa.onrender.com/api/v1/user/password',
   data: {
     email:inputs.email,
   }

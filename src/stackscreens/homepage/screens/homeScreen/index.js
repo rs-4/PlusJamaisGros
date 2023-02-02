@@ -96,7 +96,7 @@ onPress={item => {console.log(item);}}
    style={{zIndex:0}}
     />
     </MapView>
-    <PrimaryButton onPress={{getLocation}}/>
+   
     </View>
     <FooterHome  />
 </View>     

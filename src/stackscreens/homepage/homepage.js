@@ -111,7 +111,7 @@ function Homepage ({ navigation }){
                   },
                   tabBarIcon: ({ focused, color, size }) => {
                     let iconName;
-                    if (route.name === 'Acceuil') {
+                    if (route.name === 'Accueil') {
                       iconName = focused
                         ? 'ios-home'
                         : 'ios-home';
@@ -130,7 +130,7 @@ function Homepage ({ navigation }){
                   tabBarInactiveTintColor: 'black',
               })}>
                         <Tab.Screen  
-                          name='Acceuil' 
+                          name='Accueil' 
                           component={homeScreen} />
                         <Tab.Screen  
                           name='Seances' 

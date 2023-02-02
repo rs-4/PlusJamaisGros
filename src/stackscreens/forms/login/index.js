@@ -37,7 +37,7 @@ function Login ({ navigation }){
   
     axios({
       method: 'post',
-      url: `http:/localhost:3001/api/v1/auth/login`,
+      url: `https://nfa.onrender.com/api/v1/auth/login`,
       data: {
         email:inputs.email,
         password: inputs.password,

@@ -11,7 +11,7 @@ const Payment = ({prix=0,nombreSeance=0}) => {
   const subscribe = async () => {
     try {
       // sending request
-      const response = await fetch("http://localhost:3001/api/v1/auth/pay", {
+      const response = await fetch("https://nfa.onrender.com/api/v1/auth/pay", {
         method: "POST",
         body: JSON.stringify({ prix , nombreSeance }),
         headers: {

@@ -17,7 +17,7 @@ const Routes = props => {
       <Stack.Navigator>
         <Stack.Screen
           name="login"
-          component={Homepage}
+          component={Login}
           options={{title: ' ',headerShown:false}}
           />
         

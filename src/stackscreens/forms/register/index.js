@@ -32,7 +32,7 @@ function Register ({ navigation , }){
 
   axios({
     method: 'post',
-    url: `http:/localhost:3001/api/v1/auth/register`,
+    url: `https://nfa.onrender.com/api/v1/auth/register`,
     data: {
       firstName: inputs.firstname,
       lastName:inputs.lastname,
